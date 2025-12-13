@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 I'm Andrey 
+Here's a bit about me:
+- 28-year-old engineer.
+- passionate about data, cloud, tech, and game development.
+- based in Brazil: talk to me in Portuguese, English, or Spanish.
 
-<!--
-**andreyfcosta/andreyfcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tools:
+![Static Badge](https://img.shields.io/badge/AWS-student-white?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/python-learning-blue?style=for-the-badge&logo=python)
+![Static Badge](https://img.shields.io/badge/sql-learning-lightblue?style=for-the-badge&logo=sql)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Static Badge](https://img.shields.io/badge/game_dev-grey?style=for-the-badge&logo=sourceengine) 
+![Static Badge](https://img.shields.io/badge/Data_visualization-darkblue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/adobe_photoshop-teal?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/visual_studio_code-purple?style=for-the-badge)
+
+
+
+
+---
+
+## 📫 Contact
+- LinkedIn: [(in/andrey-fernandes)](https://www.linkedin.com/in/andrey-fernandes-a75902206/)
+
