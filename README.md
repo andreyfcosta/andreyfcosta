@@ -16,8 +16,13 @@ Here's a bit about me:
 ![Static Badge](https://img.shields.io/badge/adobe_photoshop-teal?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/visual_studio_code-purple?style=for-the-badge)
 
+---
 
+## Learning Roadmap:
 
+- AWS Cloud Computing (in progress)
+
+- SQL & Python for Data Engineering (in progress)
 
 ---
 
