@@ -4,7 +4,7 @@ Here's a bit about me:
 - passionate about data, cloud, tech, and game development.
 - based in Brazil: talk to me in Portuguese, English, or Spanish.
 
-## 🛠️ Tools:
+## Tools:
 ![Static Badge](https://img.shields.io/badge/AWS-student-white?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/python-learning-blue?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/sql-learning-lightblue?style=for-the-badge&logo=sql)
@@ -24,8 +24,4 @@ Here's a bit about me:
 
 - SQL & Python for Data Engineering (in progress)
 
----
-
-## 📫 Contact
-- LinkedIn: [(in/andrey-fernandes)](https://www.linkedin.com/in/andrey-fernandes-a75902206/)
 
